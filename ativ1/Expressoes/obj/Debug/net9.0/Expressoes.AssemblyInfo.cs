@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Expressoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87d3a4fa97b4ab41a1fedaccf23e5bc564c09cb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Expressoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Expressoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
